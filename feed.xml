@@ -5,7 +5,7 @@
     <link>https://kychris.github.io/listening-queue-4a5a9bd8/</link>
     <description>A private listening queue.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:09:22 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:21:08 -0500</lastBuildDate>
     <atom:link href="https://kychris.github.io/listening-queue-4a5a9bd8/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Christian Yang</itunes:author>
     <itunes:block>Yes</itunes:block>
@@ -20,6 +20,17 @@
       <title>Christian's Listening Queue</title>
       <link>https://kychris.github.io/listening-queue-4a5a9bd8/</link>
     </image>
+    <item>
+      <title>Automate Anything with Grok Bot</title>
+      <description>lauren (@poteto). Source: https://x.com/poteto/status/2123159537016533493.</description>
+      <link>https://x.com/poteto/status/2123159537016533493</link>
+      <enclosure url="https://kychris.github.io/listening-queue-4a5a9bd8/episodes/automate-anything-with-grok-bot.mp3" length="4142160" type="audio/mpeg" />
+      <guid isPermaLink="false">gid://listening-queue/x/2123159537016533493</guid>
+      <pubDate>Wed, 25 Nov 2026 14:21:08 -0500</pubDate>
+      <itunes:duration>11:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>lauren (@poteto)</itunes:author>
+    </item>
     <item>
       <title>The golden rule: compliance before logistics</title>
       <description>YOHAMI. Source: https://x.com/YOHAMI/status/2125521793658376265. Audio taken from the original talking video.</description>
