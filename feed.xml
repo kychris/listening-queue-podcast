@@ -5,7 +5,7 @@
     <link>https://kychris.github.io/listening-queue-podcast/</link>
     <description>A private listening queue.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:03:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:05:57 -0500</lastBuildDate>
     <atom:link href="https://kychris.github.io/listening-queue-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Christian Yang</itunes:author>
     <itunes:block>Yes</itunes:block>
@@ -20,6 +20,17 @@
       <title>Christian's Listening Queue</title>
       <link>https://kychris.github.io/listening-queue-podcast/</link>
     </image>
+    <item>
+      <title>Lessons for your 20s</title>
+      <description>BOSS (@thebeautyofsaas). Source: https://x.com/thebeautyofsaas/status/2125680870849761331. Complete 30-lesson long-form post.</description>
+      <link>https://x.com/thebeautyofsaas/status/2125680870849761331</link>
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/lessons-for-your-20s.mp3" length="2459232" type="audio/mpeg" />
+      <guid isPermaLink="false">gid://listening-queue/x/2125680870849761331</guid>
+      <pubDate>Wed, 25 Nov 2026 16:05:57 -0500</pubDate>
+      <itunes:duration>6:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>BOSS (@thebeautyofsaas)</itunes:author>
+    </item>
     <item>
       <title>The no mind never stops testing reality</title>
       <description>YOHAMI talking video. Original audio extracted from the post.</description>
