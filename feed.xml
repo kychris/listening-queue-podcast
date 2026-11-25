@@ -2,29 +2,29 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Christian's Listening Queue</title>
-    <link>https://kychris.github.io/listening-queue-4a5a9bd8/</link>
+    <link>https://kychris.github.io/listening-queue-podcast/</link>
     <description>A private listening queue.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:21:08 -0500</lastBuildDate>
-    <atom:link href="https://kychris.github.io/listening-queue-4a5a9bd8/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2026 14:22:04 -0500</lastBuildDate>
+    <atom:link href="https://kychris.github.io/listening-queue-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Christian Yang</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://kychris.github.io/listening-queue-4a5a9bd8/cover.jpg" />
+    <itunes:image href="https://kychris.github.io/listening-queue-podcast/cover.jpg" />
     <itunes:category text="Society &amp; Culture" />
     <itunes:owner>
       <itunes:name>Christian Yang</itunes:name>
     </itunes:owner>
     <image>
-      <url>https://kychris.github.io/listening-queue-4a5a9bd8/cover.jpg</url>
+      <url>https://kychris.github.io/listening-queue-podcast/cover.jpg</url>
       <title>Christian's Listening Queue</title>
-      <link>https://kychris.github.io/listening-queue-4a5a9bd8/</link>
+      <link>https://kychris.github.io/listening-queue-podcast/</link>
     </image>
     <item>
       <title>Automate Anything with Grok Bot</title>
       <description>lauren (@poteto). Source: https://x.com/poteto/status/2123159537016533493.</description>
       <link>https://x.com/poteto/status/2123159537016533493</link>
-      <enclosure url="https://kychris.github.io/listening-queue-4a5a9bd8/episodes/automate-anything-with-grok-bot.mp3" length="4142160" type="audio/mpeg" />
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/automate-anything-with-grok-bot.mp3" length="4142160" type="audio/mpeg" />
       <guid isPermaLink="false">gid://listening-queue/x/2123159537016533493</guid>
       <pubDate>Wed, 25 Nov 2026 14:21:08 -0500</pubDate>
       <itunes:duration>11:30</itunes:duration>
@@ -35,7 +35,7 @@
       <title>The golden rule: compliance before logistics</title>
       <description>YOHAMI. Source: https://x.com/YOHAMI/status/2125521793658376265. Audio taken from the original talking video.</description>
       <link>https://x.com/YOHAMI/status/2125521793658376265</link>
-      <enclosure url="https://kychris.github.io/listening-queue-4a5a9bd8/episodes/the-golden-rule-compliance-before-logistics.mp3" length="6073717" type="audio/mpeg" />
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/the-golden-rule-compliance-before-logistics.mp3" length="6073717" type="audio/mpeg" />
       <guid isPermaLink="false">gid://listening-queue/x/2125521793658376265</guid>
       <pubDate>Tue, 25 Nov 2026 13:24:00 -0500</pubDate>
       <itunes:duration>12:39</itunes:duration>
@@ -46,7 +46,7 @@
       <title>The success story your parents sold you was designed for a world that no longer exists</title>
       <description>BOSS (@thebeautyofsaas). Source: https://x.com/thebeautyofsaas/status/2124918128538993074.</description>
       <link>https://x.com/thebeautyofsaas/status/2124918128538993074</link>
-      <enclosure url="https://kychris.github.io/listening-queue-4a5a9bd8/episodes/the-success-story-your-parents-sold-you.mp3" length="2712816" type="audio/mpeg" />
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/the-success-story-your-parents-sold-you.mp3" length="2712816" type="audio/mpeg" />
       <guid isPermaLink="false">gid://listening-queue/x/2124918128538993074</guid>
       <pubDate>Mon, 23 Nov 2026 13:41:00 -0500</pubDate>
       <itunes:duration>7:32</itunes:duration>
@@ -57,7 +57,7 @@
       <title>Boring people answer questions nobody asked</title>
       <description>YOHAMI. Source: https://x.com/YOHAMI/status/2124715421656051998. Audio taken from the original talking video.</description>
       <link>https://x.com/YOHAMI/status/2124715421656051998</link>
-      <enclosure url="https://kychris.github.io/listening-queue-4a5a9bd8/episodes/boring-people-answer-questions-nobody-asked.mp3" length="9007164" type="audio/mpeg" />
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/boring-people-answer-questions-nobody-asked.mp3" length="9007164" type="audio/mpeg" />
       <guid isPermaLink="false">gid://listening-queue/x/2124715421656051998</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 -0500</pubDate>
       <itunes:duration>18:46</itunes:duration>
