@@ -5,7 +5,7 @@
     <link>https://kychris.github.io/listening-queue-podcast/</link>
     <description>A private listening queue.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:05:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:12:15 -0500</lastBuildDate>
     <atom:link href="https://kychris.github.io/listening-queue-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Christian Yang</itunes:author>
     <itunes:block>Yes</itunes:block>
@@ -20,6 +20,17 @@
       <title>Christian's Listening Queue</title>
       <link>https://kychris.github.io/listening-queue-podcast/</link>
     </image>
+    <item>
+      <title>How to fix your entire life in 1 day</title>
+      <description>Dan Koe (@thedankoe). Source: https://x.com/thedankoe/status/2010751592346030461. Long-form X Article on identity, goals, and a one-day protocol for resetting your life.</description>
+      <link>https://x.com/thedankoe/status/2010751592346030461</link>
+      <enclosure url="https://kychris.github.io/listening-queue-podcast/episodes/how-to-fix-your-entire-life-in-1-day.mp3" length="11421360" type="audio/mpeg" />
+      <guid isPermaLink="false">gid://listening-queue/x/2010751592346030461</guid>
+      <pubDate>Sat, 28 Nov 2026 00:12:15 -0500</pubDate>
+      <itunes:duration>31:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Dan Koe (@thedankoe)</itunes:author>
+    </item>
     <item>
       <title>Lessons for your 20s</title>
       <description>BOSS (@thebeautyofsaas). Source: https://x.com/thebeautyofsaas/status/2125680870849761331. Complete 30-lesson long-form post.</description>
